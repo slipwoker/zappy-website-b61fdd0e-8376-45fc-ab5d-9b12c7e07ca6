@@ -1,57 +1,47 @@
-# Baldwin & Co — Generative Engine Optimization Map
-
-> Build a website for a notary agent
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://baldwin-co-b61fdd0e.zappy5.app
+https://example.com
 Baldwin &amp; Co delivers professional notary services tailored for small business owners. Fast, reliable, and expert document authentication when you need it most.
 
 ### Services
-https://baldwin-co-b61fdd0e.zappy5.app/services
+https://example.com/services
 From loan signings to business contracts, Baldwin &amp; Co provides comprehensive notary services. Discover how we simplify your document needs with precision and care.
 
 ### Process
-https://baldwin-co-b61fdd0e.zappy5.app/process
+https://example.com/process
 Our streamlined notary process makes document signing effortless. Learn how Baldwin &amp; Co ensures accuracy, speed, and compliance for every notarization.
 
 ### Contact
-https://baldwin-co-b61fdd0e.zappy5.app/contact
+https://example.com/contact
 Ready to notarize your documents? Contact Baldwin &amp; Co now for prompt, reliable service. Reach out to our expert notary team and get started immediately.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://baldwin-co-b61fdd0e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://baldwin-co-b61fdd0e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://baldwin-co-b61fdd0e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Baldwin & Co
-Build a website for a notary agent
-
-## Target Audience
-- Small Business Owners
-
-## Industry
-legal services
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://baldwin-co-b61fdd0e.zappy5.app/sitemap.xml
-- **Robots.txt**: https://baldwin-co-b61fdd0e.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
